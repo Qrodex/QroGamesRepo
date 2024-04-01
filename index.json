@@ -17,7 +17,7 @@
             "feed": "false",
             "info": "Explore The Qrodex HQ.",
             "banner": "https://qrodex.github.io/QroChess/rc_images/qrojune.png",
-            "link": "../QroHQ/index.html",
+            "link": "https://qrodex.github.io/QroGamesRepo/QroHQ",
             "type": "html5"
         }
     ]
